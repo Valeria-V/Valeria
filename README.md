@@ -1,11 +1,6 @@
 <h1 align="center">Hello! I'm Valéria 👩🏻‍💻</h1>
 <h3 align="center">A passionate frontend engineer that loves code logic and UI design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprucegabriela&label=Profile%20views&color=0e75b6&style=flat" alt="sprucegabriela" /> </p>
-
-<h1 align="center">GAME Mata Mosquito 👩🏻‍💻</h1>
-<h3 align="center">Mate todos os mosquitos antes do tempo acabar</h3>
-
 - ⚡ Fun fact **I love oldschool, comics and games, so I'am studying game development at FATEC Carapicuíba**
 
 <h3 align="left">Connect with me:</h3>
